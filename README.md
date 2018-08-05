@@ -8,4 +8,4 @@
 
 ## 另  邮箱 1249492252@qq.com
  
-![](https://github.com/cdoer/webrtcSimple/tree/master/web/demo.png)
+![图片](https://github.com/cdoer/webrtcSimple/tree/master/web/demo.png)
