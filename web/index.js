@@ -101,7 +101,7 @@ webos.execute = function(params){
         var video =$("#"+id);
         if (video[0]) {
             //video[0].src = window.URL.createObjectURL(stream);
-            video[0].srcObject = stream;
+            video[0].srcObject =  stream;
         }
     }
 
